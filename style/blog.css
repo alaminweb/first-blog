@@ -36,3 +36,16 @@ footer {
     height: fit-content;
     width: fit-content;
 } */
+
+.order-list {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    background-color: whitesmoke;
+}
+
+li {
+    /* margin: 15px;
+    border: 5px; */
+    padding: 10px;
+    /* border-radius: 10px; */
+}
