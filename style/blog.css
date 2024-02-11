@@ -23,20 +23,6 @@ h3 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-footer {
-    /* background-color: dimgray; */
-    font-family: 'Courier New', Courier, monospace;
-    text-align: center;
-    padding: 5px;
-    color: whitesmoke;
-    background-color: chocolate;
-}
-
-/* img {
-    height: fit-content;
-    width: fit-content;
-} */
-
 .order-list {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: larger;
@@ -48,4 +34,13 @@ li {
     border: 5px; */
     padding: 10px;
     /* border-radius: 10px; */
+}
+
+footer {
+    /* background-color: dimgray; */
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    padding: 5px;
+    color: whitesmoke;
+    background-color: chocolate;
 }
